@@ -25,7 +25,7 @@ namespace t_televisor
                     {
                         if (Channel == 1)
                         {
-                            Channel = 31;
+                            Channel = 99;
                         }
                         else
                         {
@@ -36,7 +36,7 @@ namespace t_televisor
                     }
                     if (NextChannel == "Z")
                     {
-                        if (Channel == 31)
+                        if (Channel == 99)
                         {
                             Channel = 1;
                         }
@@ -66,9 +66,9 @@ namespace t_televisor
 
         static void switchChannel(int channel)
         {
-            if (channel > 31)
+            if (channel > 99)
             {
-                channel = 31;
+                channel = 99;
             }
             if (channel < 1)
             {
