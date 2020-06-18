@@ -1,0 +1,7 @@
+C:\Users\vinchi\Desktop\кидаю\televisor\t-televisor\t-televisor\bin\Debug\t-televisor.exe.config
+C:\Users\vinchi\Desktop\кидаю\televisor\t-televisor\t-televisor\bin\Debug\t-televisor.exe
+C:\Users\vinchi\Desktop\кидаю\televisor\t-televisor\t-televisor\bin\Debug\t-televisor.pdb
+C:\Users\vinchi\Desktop\кидаю\televisor\t-televisor\t-televisor\obj\Debug\t-televisor.csprojAssemblyReference.cache
+C:\Users\vinchi\Desktop\кидаю\televisor\t-televisor\t-televisor\obj\Debug\t-televisor.csproj.CoreCompileInputs.cache
+C:\Users\vinchi\Desktop\кидаю\televisor\t-televisor\t-televisor\obj\Debug\t-televisor.exe
+C:\Users\vinchi\Desktop\кидаю\televisor\t-televisor\t-televisor\obj\Debug\t-televisor.pdb
